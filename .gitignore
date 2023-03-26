@@ -1,0 +1,5 @@
+csv2dict_reader.egg-info
+build/
+distd/
+data/
+bin/*.ipynb
